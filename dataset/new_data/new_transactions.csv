@@ -1,0 +1,6 @@
+TransactionID,TransactionDate,Amount,MerchantID,TransactionType,Location,IsFraud
+1,2024-04-27 16:12:05.046089,3009.49,416,refund,San Diego,
+2,2024-05-29 06:17:56.046089,2656.75,878,purchase,Chicago,
+3,2024-07-06 02:17:16.046089,2171.74,508,refund,San Jose,
+4,2024-08-05 07:36:02.046089,4665.82,73,purchase,San Jose,
+5,2024-10-23 08:17:56.046089,2823.62,795,refund,Philadelphia,
